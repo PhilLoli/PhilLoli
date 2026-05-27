@@ -74,8 +74,9 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/Participating.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/PhilLoli/PhilLoli/refs/heads/main/Participating.png)
 [<img src="/Intership_basic.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/PhilLoli/PhilLoli/refs/heads/main/Intership_basic.png)
+[<img src="/Participating.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/PhilLoli/PhilLoli/refs/heads/main/Participating.png)
+
 
 <br>
 
