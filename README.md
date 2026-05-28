@@ -2,9 +2,6 @@
 Меня зовут Ваня, я QA Engineer, люблю различное искусство всех видов!
 
 ## 📊 Статистика
-
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=PhilLoli)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=PhilLoli)
 ![Anurag's GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?hide_rank=true&username=PhilLoli&hide=contribs,prs)
 ![Top Langs](https://github-stats-psiyavushs-projects.vercel.app/api/top-langs/?username=PhilLoli&layout=compact)
 
